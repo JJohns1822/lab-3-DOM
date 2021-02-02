@@ -1,0 +1,39 @@
+.money-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.coin {
+  display: flex;
+  background-color: gray;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  padding: 10px;
+}
+.coin-container {
+  display: flex;
+  justify-content: space-around;
+}
+.p {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.light-bulb {
+  padding: 10px;
+  display: inline;
+  color: black;
+  background-color: gray;
+}
+
+.button {
+  color: white;
+  background-color: black;
+}
+
+.on-alternate {
+  color: black;
+  background-color: white;
+}
